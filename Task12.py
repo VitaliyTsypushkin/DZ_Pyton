@@ -1,4 +1,3 @@
-from math import sqrt
 
 def calculate(b, c):
     D = b*b + 4*c  # считаем дискриминант
